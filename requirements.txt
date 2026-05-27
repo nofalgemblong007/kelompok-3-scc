@@ -1,0 +1,14 @@
+# Requirements untuk project Ingestion Data Saham IDX
+# Kelompok 3 Orang - Tugas Pemrograman Python
+
+# Library untuk HTTP request
+requests>=2.28.0
+
+# Library untuk koneksi MySQL/MariaDB
+mysql-connector-python>=8.0.0
+
+# Library untuk data processing
+pandas>=1.5.0
+
+# Library untuk JSON (sudah termasuk dalam Python)
+# json
